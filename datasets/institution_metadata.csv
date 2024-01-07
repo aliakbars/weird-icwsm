@@ -1,0 +1,697 @@
+name,display_name,relevance_score,country_code,type,works_count,cited_by_count
+"University of Southern California, Information Sciences Institute",University of Southern California,200259.97,US,education,214004,7371705
+Sapienza University of Rome,Sapienza University of Rome,193184.11,IT,education,176055,3652998
+Sapienza University of Roma,,-1,IT,,-1,-1
+University of Michigan School of Information,,-1,US,,-1,-1
+Facebook,Meta (Israel),4814.626,US,company,4101,288201
+Cornell University,Cornell University,237984.52,US,education,341721,13561303
+Stanford University,Stanford University,305476.94,US,education,390672,19958742
+Carleton College,Carleton College,20166.549,US,education,4016,68046
+"University of California, Santa Barbara","University of California, Berkeley",203838.98,US,education,325100,15870524
+"CyLab, CMU Silicon Valley",,-1,US,,-1,-1
+Georgia Institute of Technology,Georgia Institute of Technology,145841.89,US,education,153788,4837598
+"Zucker Hillside Hospital, Psychiatry Research",Zucker Hillside Hospital,38943.996,US,healthcare,2889,107562
+University of Colorado Boulder,University of Colorado Boulder,196826.97,US,education,116568,4676778
+West Virginia University,West Virginia University,83912.625,US,education,62732,1286953
+Universidad Nacional Autonoma de Mexico (UNAM),,-1,MX,,-1,-1
+Korea Advanced Institute of Science and Technology (KAIST),,-1,KR,,-1,-1
+"University of California, Los Angeles (UCLA)","University of California, Berkeley",203838.98,US,education,325100,15870524
+Universit of Michigan,,-1,US,,-1,-1
+Northwestern University,Northwestern University,168912.58,US,education,193143,8015151
+University of Michigan,University of Michigan–Ann Arbor,211956.42,US,education,845790,15945520
+"The University of Melbourne, Data61",,-1,AU,,-1,-1
+The University of Melbourne,,-1,AU,,-1,-1
+University of Rochester,University of Rochester,127068.12,US,education,105194,4188699
+Tencent AI Lab,,-1,CN,,-1,-1
+Queen Mary University of London,Queen Mary University of London,171568.81,GB,education,91822,2603001
+University College London  ,University College London,272407.6,GB,education,401267,14169300
+University of Pennsylvania,University of Pennsylvania,204335.56,US,education,307520,13012314
+University of North Carolina Charlotte,University of North Carolina at Charlotte,23245.137,US,education,30820,562874
+Pacific Northwest National Laboratory,Pacific Northwest National Laboratory,119125.8,US,facility,76449,1471869
+Carnegie Mellon University,Carnegie Mellon University,215411.48,US,education,118925,4855327
+Microsoft Research,Microsoft Research (United Kingdom),42965.01,GB,company,12686,750186
+University of Washington,University of Washington,214177.34,US,education,396023,15797965
+Illinois Institute of Technology,Illinois Institute of Technology,50883.93,US,education,28618,569076
+Northeastern University,Northeastern University,74399.59,US,education,53669,1502694
+"The Australian National University Data 61, CSIRO",,-1,AU,,-1,-1
+Columbia University,Columbia University,212822.03,US,education,295612,12484490
+IBM Research,IBM Research - Thomas J. Watson Research Center,49369.96,US,facility,32502,1666555
+"UPF, Barcelona",Pompeu Fabra University,35887.22,ES,education,34249,919769
+UN Global Pulse,,-1,US,,-1,-1
+EPFL,École Polytechnique Fédérale de Lausanne,95981.19,CH,education,126812,4839755
+University College London,University College London,272093.53,GB,education,401267,14169300
+"University College London, The Alan Turing Institute",University College London,272093.53,GB,education,401267,14169300
+University of Maryland,"University of Maryland, College Park",116595.414,US,education,182003,6260079
+Universidade Federal de Ouro Preto (UFOP),,-1,BR,,-1,-1
+Universidade Federal de Minas Gerais (UFMG),,-1,BR,,-1,-1
+Indian Institute of Technology Kharagpur,Indian Institute of Technology Kharagpur,99054.016,IN,education,53701,911759
+Max Planck Institute for Software Systems (MPI-SWS),,-1,DE,,-1,-1
+The Australian National University,,-1,AU,,-1,-1
+L3S Research Center,L3S Research Center,21362.746,DE,facility,3033,60187
+University of Bergen,University of Bergen,96359.35,NO,education,71332,2133084
+Radboud University,Radboud University Nijmegen,137859.2,NL,education,144020,4903936
+"Qatar Computing Research Institute, HBKU",,-1,QA,,-1,-1
+"Qatar Computing Research Institute, Hamad Bin Khalifa University",,-1,QA,,-1,-1
+Hamad Bin Khalifa University,Hamad bin Khalifa University,45488.797,QA,education,6703,113817
+Independent Researcher,,-1,,,-1,-1
+Virginia Tech,Virginia Tech,134071.06,US,education,129138,3071137
+Virginia Polytechnic Institute of Technology,,-1,US,,-1,-1
+National Research University Higher School of Economics,National Research University Higher School of Economics,41006.1,RU,education,45772,203284
+Harvard School of Public Health,,-1,US,,-1,-1
+The Ohio State University,The Ohio State University,207680.08,US,education,288138,7408745
+Florida International University,Florida International University,62387.42,US,education,45990,966931
+"University of Maryland, College Park","University of Maryland, College Park",116595.414,US,education,182003,6260079
+Erasmus University Rotterdam,Erasmus University Rotterdam,161357.31,NL,education,78083,2679720
+Nanyang Technological University,Nanyang Technological University,174418.31,SG,education,142797,3979179
+Institute for Infocomm Research,Institute for Infocomm Research,40213.336,SG,facility,10873,240490
+University of Alberta,University of Alberta,131091.58,CA,education,201464,5521821
+Australian National University,Australian National University,125154.88,AU,education,139296,4329803
+Peking University,Peking University,139283.6,CN,education,239971,4894322
+Beihang University,Beihang University,85239.64,CN,education,106444,1352166
+University of Chicago,University of Chicago,170572.5,US,education,215584,9343431
+Cyprus University of Technology,Cyprus University of Technology,22789.82,CY,education,6086,106753
+University of Alabama at Birmingham,University of Alabama at Birmingham,204719.98,US,education,115385,3906109
+Rockefeller Foundation,Rockefeller Foundation,25339.68,US,nonprofit,2749,127687
+Stony Brook University,Stony Brook University,192905.98,US,education,94611,3315125
+"Department of Informatics, University Illinois at Urbana-Champaign","Department of Physics, Mathematics and Informatics",1211.6064,BY,facility,3772,4831
+"Information Science Institute, University Southern California",Institute of Information Science and Technologies,5080.569,IT,facility,6942,119630
+King’s College,Bansomdejchaopraya Rajabhat University,663.022,TH,education,381,2634
+House of Commons Library,,-1,GB,,-1,-1
+"University of Southampton Southampton, UK",University of Southampton,71404.19,GB,education,136156,3786883
+"University of SouthamptonSouthampton, UK",,-1,GB,,-1,-1
+Hamad Bin Khalifa University.,Hamad bin Khalifa University,45404.72,QA,education,6703,113817
+"Qatar Computing Research Institute, Hamad Bin Khalifa University.",,-1,QA,,-1,-1
+Texas A&M University,,-1,US,,-1,-1
+University of Southern California,University of Southern California,200259.97,US,education,214004,7371705
+Qatar Computing Research Institute Hamad Bin Khalifa University Doha,,-1,QA,,-1,-1
+University of Bamberg Konstanz,,-1,DE,,-1,-1
+University of Konstanz Bamberg,,-1,DE,,-1,-1
+"Google, Sunnyvale, CA",Google (United States),52718.2,US,company,22749,1249911
+"FXPAL, Palo Alto, CA",FX Palo Alto Laboratory,5924.382,US,facility,794,18711
+Centrum Wiskunde and Informatica,,-1,NL,,-1,-1
+Nokia Bell Labs,,-1,FR,,-1,-1
+"Nokia Bell Labs,  Inria",,-1,FR,,-1,-1
+Politecnico di Torino,Polytechnic University of Turin,17443.756,IT,education,58557,946904
+Inria,French Institute for Research in Computer Science and Automation,50021.7,FR,government,48876,1329528
+"Kno.e.sis, Wright State University",,-1,US,,-1,-1
+Wright State Research Institute,,-1,US,,-1,-1
+"DFKI, TU Kaiserslautern",German Research Centre for Artificial Intelligence,13495.276,DE,nonprofit,7402,97090
+University of Turin philipp,,-1,IT,,-1,-1
+Applied Intelligence Research Center Technological University Dublin,,-1,IE,,-1,-1
+Indiana University Bloomington,Indiana University Bloomington,164329.69,US,education,79337,2795990
+Language Technologies Institute Carnegie Mellon University,,-1,US,,-1,-1
+MIT,Massachusetts Institute of Technology,136937.39,US,education,263296,15118629
+University of Illinois at Urbana-Champaign,,-1,US,,-1,-1
+"University of California, Irvine","University of California, Berkeley",203838.98,US,education,325100,15870524
+"Max Planck Institute for Informatics, Saarland Informatics Campus",Max Planck Institute for Informatics,52349.87,DE,facility,7530,246726
+Purdue University,Purdue University West Lafayette,105130.4,US,education,153095,4680889
+Bloomberg LP,,-1,US,,-1,-1
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,116938.91,US,education,49637,1394782
+University of California Santa Barbara,"University of California, Santa Barbara",226215.48,US,education,105026,4773451
+Virginia Polytechnic Institute and State University,Virginia Tech,17991.34,US,education,129138,3071137
+Technical University of Denmark,Technical University of Denmark,118811.35,DK,education,93937,2881823
+University at Buffalo,"University at Buffalo, State University of New York",94709.98,US,education,108957,2949391
+"Kennedy School of Government, Harvard University",,-1,US,,-1,-1
+"Research Centre on Interactive Media, Smart Systems and Emerging Technologies",,-1,CY,,-1,-1
+New York University,New York University,185120.72,US,education,209287,7771382
+University of Oxford,University of Oxford,212166.17,GB,education,336490,13450675
+IIT Kharagpur,Indian Institute of Technology Kharagpur,6932.9946,IN,education,53701,911759
+University of Southampton,University of Southampton,120871.5,GB,education,136156,3786883
+"Indian Institute of Technology, Kharagpur",Indian Institute of Technology Kharagpur,55094.887,IN,education,53701,911759
+"Indian Institute of Engineering Science and Technology, Shibpur","Indian Institute of Engineering Science and Technology, Shibpur",28254.889,IN,education,11052,121880
+FaceBook,Meta (Israel),5066.072,US,company,4101,288201
+University of Edinburgh,University of Edinburgh,150334.84,GB,education,191967,6092703
+Georgia Tech,Georgia Institute of Technology,22622.865,US,education,153788,4837598
+Harvard Medical School,,-1,US,,-1,-1
+NYU Shanghai,New York University Shanghai,1681.4543,CN,education,2597,39733
+"Computational Social Science, GESIS",,-1,DE,,-1,-1
+Drexel University,Drexel University,101021.25,US,education,60953,1746158
+"CyberAgent, Inc",CyberAgent (Japan),1932.5731,JP,company,225,843
+"University of Alberta, Edmonton",University of Alberta,131091.58,CA,education,201464,5521821
+ University of Tsukuba,University of Tsukuba,92902.69,JP,education,104953,1909320
+"University of Colorado at Boulder, Spotify",,-1,US,,-1,-1
+Spotify,,-1,US,,-1,-1
+"University of Colorado at Boulder, Santa Fe Institute",,-1,US,,-1,-1
+Wikimedia Foundation,Wikimedia Foundation,3267.6182,US,nonprofit,155,2346
+King's College London,King's College London,209957.42,GB,education,175958,5205767
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,270326.66,US,education,263296,15118629
+Macquarie University,Macquarie University,84212.234,AU,education,69534,1609984
+Cardiff University,Cardiff University,102989.29,GB,education,88796,2548169
+Universidade de Vigo,Universidade de Vigo,74961.516,ES,education,33244,634389
+Universidad de Granada,University of Granada,18937.273,ES,education,81449,1500817
+Snap Inc.,,-1,US,,-1,-1
+Tsinghua University,Tsinghua University,161625.34,CN,education,270636,5650355
+Grenoble Ecole De Management,Grenoble Ecole de Management,19228.12,FR,education,2374,27470
+Beibei Group,,-1,CN,,-1,-1
+ISI Foundation,ISI Foundation,7190.828,US,other,552,6879
+IT University of Copenhagen,IT University of Copenhagen,26555.652,DK,education,4937,78682
+Hamad bin Khalifa University,Hamad bin Khalifa University,46994.008,QA,education,6703,113817
+Sofia University,Sofia University,30005.99,BG,education,17101,216099
+Pompeu Fabra University,Pompeu Fabra University,115214.24,ES,education,34249,919769
+Eurecat,,-1,ES,,-1,-1
+University of Illinois at Chicago,University of Illinois at Chicago,199966.92,US,education,143198,3939547
+IIIT-Delhi,,-1,IN,,-1,-1
+Bloomberg,Bloomberg (United States),17677.195,US,company,5107,111567
+Netaji Subhas Institute of Technology,Netaji Subhas University of Technology,3398.669,IN,education,5620,43660
+University of California Riverside,"University of California, Riverside",131427.6,US,education,72978,2501163
+University College Dublin,University College Dublin,106247.56,IE,education,72581,1740740
+Huawei Ireland Research Center,,-1,IE,,-1,-1
+Leibniz University Hannover,Leibniz University Hannover,81752.5,DE,education,51254,860809
+Leibniz University of Hannover,,-1,DE,,-1,-1
+University of Mississippi,University of Mississippi,47451.836,US,education,30255,631685
+Khulna University of Engineering and Technology,Khulna University of Engineering and Technology,16217.249,BD,education,3798,29826
+University of Toronto,University of Toronto,227293.6,CA,education,417214,14394493
+National University of Singapore,National University of Singapore,157063.92,SG,education,202377,5989870
+Adobe Research India,,-1,IN,,-1,-1
+Megagon Labs,,-1,US,,-1,-1
+Korea Advanced Institute of Science and Technology,Korea Advanced Institute of Science and Technology,121037.62,KR,education,89760,2041692
+Yonsei University,Yonsei University,107420.28,KR,education,134459,2498830
+University of Kent,University of Kent,61480.434,GB,education,41526,798943
+ETH Zurich,ETH Zurich,432761.66,CH,education,160841,5612285
+University of Cambridge,University of Cambridge,199574.42,GB,education,306691,12532575
+KTH Royal Institute of Technology,KTH Royal Institute of Technology,145913.36,SE,education,84313,2068947
+University of Iowa,University of Iowa,125874.47,US,education,145893,4769613
+Lorica Health,,-1,AU,,-1,-1
+CSIRO Data61,,-1,AU,,-1,-1
+University of Pittsburgh,University of Pittsburgh,173538.05,US,education,226396,8205012
+International Institute of Information Technology-Hyderabad,"International Institute of Information Technology, Hyderabad",21436.664,IN,education,3951,46564
+Indraprastha Institude of Information Technology-Delhi,,-1,IN,,-1,-1
+University of Minnesota,University of Minnesota,218073.23,US,education,270584,10133157
+University of Applied Sciences and Arts of Southern Switzerland (SUPSI),,-1,CH,,-1,-1
+Universidade Federal Fluminense,Universidade Federal Fluminense,66040.25,BR,education,54243,398774
+Max-Planck-Institut für Informatik,Max Planck Institute for Informatics,12991.34,DE,facility,7530,246726
+Binghamton University,Binghamton University,62792.92,US,education,28659,653175
+"University of California, San Diego","University of California, Berkeley",203838.98,US,education,325100,15870524
+Johns Hopkins University,Johns Hopkins University,383028.7,US,education,355682,15534901
+"NTT DOCOMO, INC.",,-1,JP,,-1,-1
+The University of Tokyo,The University of Tokyo,199760.02,JP,education,390590,9669355
+Facebook Inc,,-1,US,,-1,-1
+École Polytechnique,École Polytechnique Fédérale de Lausanne,132452.42,CH,education,126812,4839755
+"CentraleSupélec, Inria",CentraleSupélec,23269.492,FR,facility,8684,106776
+Telefonica Research,Telefonica Research and Development,12506.301,ES,company,2361,41965
+Boston University,Boston University,142668.97,US,education,166135,6861922
+"University of California, Los Angeles","University of California, Berkeley",203838.98,US,education,325100,15870524
+Qatar Computing Research Institute,,-1,QA,,-1,-1
+Institute for Basic Science,Institute for Basic Science,48926.047,KR,facility,13210,383278
+Aston University,Aston University,53424.74,GB,education,27500,635478
+"University of Michigan, Ann Arbor",University of Michigan–Ann Arbor,211956.42,US,education,845790,15945520
+Universidade Federal de Pelotas (UFPel),,-1,BR,,-1,-1
+Universidade Federal do Rio Grande do Sul (UFRGS),,-1,BR,,-1,-1
+Ryerson University,Toronto Metropolitan University,10038.739,CA,education,28334,464443
+University of Potsdam,University of Potsdam,58254.16,DE,education,37720,840124
+Microsoft Research India,Microsoft Research (India),21258.74,IN,company,2143,63868
+GESIS - Leibniz Institute for the Social Sciences,GESIS - Leibniz-Institute for the Social Sciences,17681.822,DE,facility,1906,20149
+Arizona State University,Arizona State University,140018.84,US,education,143697,4336393
+Penn State University,,-1,US,,-1,-1
+University of Florida,University of Florida,151311.7,US,education,262110,7136040
+Twitter,Twitter (United States),10625.035,US,company,2488,38823
+Google,Google (United States),52718.2,US,company,22749,1249911
+Bridgewater-Raritan Regional High School,,-1,US,,-1,-1
+Stevens Institute of Technology,Stevens Institute of Technology,44133.207,US,education,17266,305156
+Spotify Research,,-1,US,,-1,-1
+University of Technology Sydney,University of Technology Sydney,85330.64,AU,education,67670,1424481
+University of Georgia,University of Georgia,105414.44,US,education,109041,3639316
+"University of North Carolina, Chapel Hill",University of North Carolina at Chapel Hill,158895.7,US,education,216827,8426871
+Network Contagion Research Institute,,-1,US,,-1,-1
+Syracuse University,Syracuse University,77949.91,US,education,57389,1338631
+Emory University,Emory University,158949.11,US,education,167246,6069603
+USC Information Sciences Institute,,-1,US,,-1,-1
+Department of Computer Science and Engineering University of California,,-1,US,,-1,-1
+"University of Illinois at Chicago
+Ohio State University",,-1,US,,-1,-1
+"The LNM Institute of Information Technology, Jaipur, India",,-1,IN,,-1,-1
+"King's College London, London, UK",King's College London,209957.42,GB,education,175958,5205767
+"German Institute of Global and Area Studies, Hamburg, Germany",,-1,DE,,-1,-1
+"University of Surrey, Surrey, UK",University of Surrey,76019.305,GB,education,60197,1355861
+"Telefonica Research, Barcelona, Spain",Telefonica Research and Development,12506.301,ES,company,2361,41965
+"Computer Science and Engineering, University at Buffalo, Buffalo, USA","Laboratory of Industrial and Human Automation Control, Mechanical Engineering and Computer Science",3459.7683,FR,facility,6202,45526
+Ben Gurion University of the Negev,Ben-Gurion University of the Negev,178670.48,IL,education,75152,1550321
+"Department of Computer Science and Engineering, IIT Kharagpur, India",,-1,IN,,-1,-1
+"Department of Electrical Engineering and Computer Science, IIT Bhilai, India",,-1,IN,,-1,-1
+"Microsoft Research, Redmond, WA, USA",Microsoft Research (United Kingdom),42965.01,GB,company,12686,750186
+"University of Michigan, School of Information",University of Michigan–Ann Arbor,211956.42,US,education,845790,15945520
+University of New Mexico,University of New Mexico,109343.25,US,education,78092,2321447
+"IT University of Copenhagen, Copenhagen, Denmark",IT University of Copenhagen,26555.652,DK,education,4937,78682
+"IT University of Copenhagen, Copenhagen, Denmark
+ISI Foundation, Turin, Italy",IT University of Copenhagen,26555.652,DK,education,4937,78682
+"Department of Informatics, King’s College London, London","Department of Physics, Mathematics and Informatics",1211.6064,BY,facility,3772,4831
+Mozilla,Mozilla Foundation,3645.7817,US,nonprofit,111,3325
+Ecole Polytechnique Federale de Lausanne,,-1,CH,,-1,-1
+Max Planck Institute for Informatics,Max Planck Institute for Informatics,52349.87,DE,facility,7530,246726
+Temple University,Temple University,83998.66,US,education,77575,1966274
+University of Houston,University of Houston,80964.88,US,education,78577,1837889
+"Graz University of Technology
+neccton GmbH",,-1,AT,,-1,-1
+Graz University of Technology,Graz University of Technology,68141.86,AT,education,34854,772435
+neccton GmbH,,-1,AT,,-1,-1
+Nottingham Trent University,Nottingham Trent University,61420.355,GB,education,20394,371399
+Max Plank Institute for Informatics,,-1,DE,,-1,-1
+University of Passau,University of Passau,20403.861,DE,education,7718,82216
+RWTH Aachen,RWTH Aachen University,177254.78,DE,education,113129,2465243
+"CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+University of Chinese Academy of Sciences, Beijing, China",,-1,CN,,-1,-1
+"CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China",,-1,CN,,-1,-1
+"Beijing Zongqing Xiangqian Science and Technology Co Ltd, Beijing, China",,-1,CN,,-1,-1
+"Dept of Computer Science, UC Riverside",,-1,US,,-1,-1
+"Department of Computer Science, Purdue University, West Lafayette, Indiana 47907",,-1,US,,-1,-1
+"RWTH Aachen University
+GESIS - Leibniz Institute for the Social Sciences",,-1,DE,,-1,-1
+"Underscore, Seoul, South Korea
+MyMusicTaste, Seoul, South Korea",,-1,KR,,-1,-1
+"KAIST College of Business, Seoul, South Korea",,-1,KR,,-1,-1
+"Department of Computer Science, University of California, Los Angeles",,-1,US,,-1,-1
+"Department of Applied Artificial Intelligence, Sungkyunkwan University",,-1,KR,,-1,-1
+"Georgia Institute of Technology, Atlanta, GA",Georgia Institute of Technology,145841.89,US,education,153788,4837598
+"University of Central Florida, Orlando, FL",University of Central Florida,77839.36,US,education,63591,1298817
+"Boston University, Boston, MA",Boston University,142668.97,US,education,166135,6861922
+Pohang University of Science and Technology,Pohang University of Science and Technology,100834.17,KR,education,44172,1277207
+University of Bristol,University of Bristol,131318.92,GB,education,152044,5011371
+"The University of Tokyo
+JST, PRESTO",,-1,JP,,-1,-1
+National Institute of Informatics,National Institute of Informatics,22633.037,JP,facility,9744,117063
+"GESIS - Leibniz Institute for the Social Sciences, Germany
+University of Konstanz, Germany",GESIS - Leibniz-Institute for the Social Sciences,17681.822,DE,facility,1906,20149
+"GESIS - Leibniz Institute for the Social Sciences, Germany",GESIS - Leibniz-Institute for the Social Sciences,17681.822,DE,facility,1906,20149
+"GESIS - Leibniz Institute for the Social Sciences, Germany
+University of Koblenz-Landau, Germany",GESIS - Leibniz-Institute for the Social Sciences,17681.822,DE,facility,1906,20149
+"Université Paris Nanterre, France
+Respondi SAS, France",Université Paris Nanterre,41171.832,FR,education,15448,109736
+Dartmouth College,Dartmouth College,107219.56,US,education,58442,2266977
+NEC Corporation,NEC (United States),2828.2373,US,company,1000,36967
+"Department of Computer Science, Dartmouth College",,-1,US,,-1,-1
+"Moody College of Communication, University of Texas at Austin",,-1,US,,-1,-1
+"Northeastern University, Boston, MA, USA",Northeastern University,74399.59,US,education,53669,1502694
+"Google Research, Mountain View, CA, USA",,-1,US,,-1,-1
+"University of Pennsylvania, Philadelphia, PA, USA",University of Pennsylvania,204335.56,US,education,307520,13012314
+"Computing and Software System Division, University of Washington",,-1,US,,-1,-1
+"Earth Lab, University of Washington",,-1,US,,-1,-1
+"Texas A&M University, College Station, TX",,-1,US,,-1,-1
+Texas A&M,,-1,US,,-1,-1
+"University of Florida, Gainesville, FL",University of Florida,151311.7,US,education,262110,7136040
+"University of California, Berkeley","University of California, Berkeley",203838.98,US,education,325100,15870524
+"University of Pisa, Dept. of Information Engineering, Pisa, Italy
+National Research Council of Italy Institute of Informatics and Telematics, Pisa, Italy",University of Pisa,102497.945,IT,education,96945,2171352
+"University of Pisa, Dept. of Information Engineering, Pisa, Italy",University of Pisa,102497.945,IT,education,96945,2171352
+"National Research Council of Italy Institute of Informatics and Telematics, Pisa, Italy",,-1,IT,,-1,-1
+"Department of Computer Science, University of Exeter, UK
+Observatory on Social Media, Indiana University Bloomington, USA",,-1,GB,,-1,-1
+"Observatory on Social Media, Indiana University Bloomington, USA",,-1,US,,-1,-1
+"Center for Information Technology Policy, Princeton University",,-1,US,,-1,-1
+"Institute for Digital Public Infrastructure, University of Massachusetts Amherst",,-1,US,,-1,-1
+"School of AI Convergence, Soongsil University, South Korea",,-1,KR,,-1,-1
+"Singapore Management University, Singapore",Singapore Management University,33745.223,SG,education,12740,225897
+"Qatar Computing Research Institute, Qatar",,-1,QA,,-1,-1
+"Google Research, USA",,-1,US,,-1,-1
+"Imperial College London, UK",Imperial College London,282183.6,GB,education,253733,9098367
+"University of Amsterdam, Netherlands",University of Amsterdam,145763.73,NL,education,167067,5602789
+IIIT Delhi,,-1,IN,,-1,-1
+Özyeğin University,Özyeğin University,15678.965,TR,education,3456,45427
+TOBB ETU,,-1,TR,,-1,-1
+"QCRI, HBKU",Quantum Chemistry Research Institute,2912.5132,QA,facility,257,5101
+Qatar University,Qatar University,35582.24,QA,education,25016,384018
+"Johannes Kepler University, Linz Institute of Technology, AI Lab",Johannes Kepler University of Linz,57961.527,AT,education,26701,433218
+Idiap Research Institute,Idiap Research Institute,18939.104,CH,facility,2637,55645
+"TU Wien, Complexity Science Hub Vienna",TU Wien,124153.4,AT,education,64293,1444304
+Federal University of Campina Grande,Universidade Federal de Campina Grande,7258.5107,BR,education,20446,96917
+University of Würzburg,University of Würzburg,116952.46,DE,education,77283,2499744
+Federal University of Minas Gerais,Universidade Federal de Minas Gerais,21669.746,BR,education,98062,1212568
+GESIS,GESIS - Leibniz-Institute for the Social Sciences,12618.024,DE,facility,1906,20149
+Delhi University,University of Delhi,19392.482,IN,education,54604,665041
+University of California San Diego,"University of California, San Diego",326758.2,US,education,258371,11891234
+"Nokia Bell Labs, IT University of Copenhagen",,-1,GB,,-1,-1
+"Nokia Bell Labs, University of Nottingham",,-1,GB,,-1,-1
+"Nokia Bell Labs, CUSP King's College London",,-1,GB,,-1,-1
+"Optum Global Advantage (OGA), (UnitedHealth Group)",,-1,US,,-1,-1
+Baidu Research,,-1,CN,,-1,-1
+Indiana University Purdue University Indianapolis,Indiana University – Purdue University Indianapolis,218725.83,US,education,101697,3221646
+"School of Computing and Information Systems, The University of Melbourne, Australia",,-1,AU,,-1,-1
+"School of Computing and Information System, Singapore Management University, Singapore",,-1,SG,,-1,-1
+University Pompeu Fabra,Pompeu Fabra University,38570.156,ES,education,34249,919769
+Technische Universität Darmstadt,Technical University of Darmstadt,20646.822,DE,education,58319,1055538
+FernUniversität in Hagen,University of Hagen,6640.853,DE,education,9854,77829
+"University of California, Riverside","University of California, Berkeley",203838.98,US,education,325100,15870524
+"Department of Computer Science and Engineering, University of Notre Dame",,-1,US,,-1,-1
+"CASOS Center, Institute for Software Research, Carnegie Mellon University",,-1,US,,-1,-1
+"Paul G. Allen School of Computer Science and Engineering, University of Washington",,-1,US,,-1,-1
+"Paul G. Allen School of Computer Science & Engineering, University of Washington",,-1,US,,-1,-1
+Differential Venture Partners,,-1,US,,-1,-1
+"Human Language Technology Research Institute
+University of Texas at Dallas",,-1,US,,-1,-1
+"Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA",,-1,US,,-1,-1
+"University of Michigan
+Australian National University",,-1,US,,-1,-1
+"Department of Electronic Engineering, Tsinghua University",,-1,CN,,-1,-1
+"School of Interactive Computing, Georgia Institute of Technology",,-1,US,,-1,-1
+"University of Chicago
+IIT Kharagpur",,-1,US,,-1,-1
+"Software and Information Systems Engineering, Ben Gurion University, Israel",,-1,IL,,-1,-1
+"School of Education, The Hebrew University of Jerusalem, Israel",Japan Graduate School of Education University,4550.133,JP,education,918,13081
+"The Hong Kong University of Science and Technology, CSE Department",,-1,HK,,-1,-1
+"University of Maryland, Baltimore County, Information Systems Department","University of Maryland, College Park",116595.414,US,education,182003,6260079
+Tulane University,Tulane University,100968.53,US,education,64767,1985132
+University of Illinois,University of Illinois Urbana-Champaign,159007.44,US,education,259308,9047461
+"Max Planck Institute for Software Systems
+Brown University",,-1,DE,,-1,-1
+Max Planck Institute for Software Systems,Max Planck Institute for Software Systems,21586.29,DE,facility,1807,37945
+CYENS Centre of Excellence,,-1,CY,,-1,-1
+"CYENS Centre of Excellence
+Aalto University",,-1,CY,,-1,-1
+"Open University of Cyprus
+CYENS Centre of Excellence",,-1,CY,,-1,-1
+Georgetown University,Georgetown University,100002.55,US,education,82333,2294297
+Humboldt University of Berlin,,-1,DE,,-1,-1
+Kings College London,,-1,GB,,-1,-1
+"Wikimedia Foundation
+King’s College London",,-1,US,,-1,-1
+"Rutgers University
+Massachusetts Institute of Technology",,-1,US,,-1,-1
+City University of Hong Kong,City University of Hong Kong,135658.08,CN,education,82128,2127133
+"Futurewei Technologies, Inc.",,-1,US,,-1,-1
+"Sapienza University, Rome, Italy
+ISI Foundation, Turin, Italy",Sapienza University of Rome,105722.87,IT,education,176055,3652998
+"University of Pisa, Italy
+ICAR-CNR, Rende, Italy",University of Pisa,102497.945,IT,education,96945,2171352
+"ISI Foundation, Turin, Italy",ISI Foundation,7190.828,US,other,552,6879
+"Centai, Turin, Italy
+Eurecat, Barcelona, Spain",,-1,IT,,-1,-1
+Beijing Normal University,Beijing Normal University,85572.805,CN,education,78291,1244076
+University of Bern,University of Bern,116741.06,CH,education,104524,3327056
+Indian Institute of Technology,Indian Institute of Technology Kharagpur,55094.887,IN,education,53701,911759
+Ben-Gurion University,Ben-Gurion University of the Negev,103102.266,IL,education,75152,1550321
+"IIIT Delhi, India",,-1,IN,,-1,-1
+Federal University of Rio Grande do Sul,Universidade Federal do Rio Grande do Sul,32856.035,BR,education,120219,1370969
+Harvard University,Harvard University,326403.03,US,education,566358,33177665
+"Pompeu Fabra University, Barcelona, Spain
+Eurecat, Barcelona, Spain",Pompeu Fabra University,115214.24,ES,education,34249,919769
+"Sapienza, University of Rome, Italy",Sapienza University of Rome,108721.94,IT,education,176055,3652998
+"Pompeu Fabra University, Barcelona, Spain
+ICREA, Barcelona, Spain",Pompeu Fabra University,115214.24,ES,education,34249,919769
+University of California Irvine,"University of California, Irvine",190862.64,US,education,141956,5078617
+LMU Munich,,-1,DE,,-1,-1
+Virginia Polytechnic Institute & State University (Virginia Tech) (SSO),,-1,US,,-1,-1
+North Carolina State University,North Carolina State University,155315.8,US,education,140912,3650793
+Indiana University,Indiana University Bloomington,80513.945,US,education,79337,2795990
+International Institute of Information Technology,"International Institute of Information Technology, Hyderabad",13855.695,IN,education,3951,46564
+Indraprastha Institute of Information Technology,Indraprastha Institute of Information Technology Delhi,17145.537,IN,education,4044,37096
+Lahore University of Management sciences,Lahore University of Management Sciences,21421.025,PK,education,4367,55959
+Oberlin College,Oberlin College,24579.205,US,education,6692,103197
+Meta,Meta (Israel),31789.86,IL,company,4101,288201
+"Department of Computer Science, Purdue University, West Lafayette, IN 47907",,-1,US,,-1,-1
+"GESIS - Leibniz Institute for the Social Science
+University of Koblenz-Landau",,-1,DE,,-1,-1
+"GESIS - Leibniz Institute for the Social Sciences
+RWTH Aachen University",,-1,DE,,-1,-1
+University Tennessee Knoxville,University of Tennessee at Knoxville,45950.46,US,education,105628,2936049
+Rutgers University,"Rutgers, The State University of New Jersey",66767.234,US,education,188719,5843166
+Technical University of Munich,Technical University of Munich,169855.92,DE,education,158503,4333664
+Yale Law School,,-1,US,,-1,-1
+"Twitter, Inc.",Twitter (United States),10625.035,US,company,2488,38823
+University of Glasgow,University of Glasgow,121716.695,GB,education,137385,3881885
+"Queen Mary University of London
+Hong Kong University of Science & Technology",,-1,GB,,-1,-1
+"Queen Mary University of London
+Jožef Stefan Institute",,-1,GB,,-1,-1
+L3S and Leibniz University of Hannover,,-1,DE,,-1,-1
+"University of Technology Sydney
+Australian National University",,-1,AU,,-1,-1
+Rose-Hulman Institute of Technology,Rose–Hulman Institute of Technology,19358.023,US,education,3102,29282
+University of Notre Dame,University of Notre Dame,130126.48,US,education,70487,1983056
+Cornell Tech,,-1,US,,-1,-1
+University of Minnesota Twin Cities,University of Minnesota,76218.35,US,education,270584,10133157
+University of Central Florida,University of Central Florida,77839.36,US,education,63591,1298817
+"Artificial Intelligence Institute, University of South Carolina, USA",Dalle Molle Institute for Artificial Intelligence Research,8504.125,CH,facility,2161,169307
+"BITS Pilani, India",Birla Institute of Technology and Science - Hyderabad Campus,3593.1958,IN,education,4570,43236
+"Bakar Computational Health Sciences Institute, University of California, USA",,-1,US,,-1,-1
+New York University Abu Dhabi,New York University Abu Dhabi,38295.18,AE,education,4694,89513
+Memetica,,-1,US,,-1,-1
+"School of Social Sciences and Technology, Technical University of Munich",,-1,DE,,-1,-1
+Erowid.org,,-1,US,,-1,-1
+University of Massachusets Amherst,,-1,US,,-1,-1
+ASAPP,,-1,US,,-1,-1
+"Department of Computer Science, Vanderbilt University, Nashville, TN",,-1,US,,-1,-1
+"Department of Computer Science, Vanderbilt University, Nashville, TN
+Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN
+Department of Biostatistics, Vanderbilt University Medical Center, Nashville, TN",,-1,US,,-1,-1
+"Department of Sociology, Vanderbilt University, Nashville, TN",,-1,US,,-1,-1
+"Department of Neurology, Vanderbilt University Medical Center, Nashville, TN
+Vanderbilt Memory and Alzheimer's Center, Vanderbilt University Medical Center, Nashville, TN",,-1,US,,-1,-1
+"Department of Neurology, Vanderbilt University Medical Center, Nashville, TN",,-1,US,,-1,-1
+"Department of Computer Science, Vanderbilt University, Nashville, TN
+Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN",,-1,US,,-1,-1
+"Cyprus University of Technology
+University College London",,-1,CY,,-1,-1
+Delft University of Technology,Delft University of Technology,137344.2,NL,education,125530,3002139
+IMDEA Networks Institute,,-1,ES,,-1,-1
+Max Planck Institute for Demographic Research,Max Planck Institute for Demographic Research,29919.2,DE,facility,2143,66261
+Max Planck Institute of Demographic Research,,-1,DE,,-1,-1
+"Netherlands Interdisciplinary Demographic Institute
+University of Groningen",,-1,NL,,-1,-1
+"University of Washington, USA",University of Washington,214177.34,US,education,396023,15797965
+GESIS Germany,,-1,DE,,-1,-1
+"Indian Institute of Technology Kharagpur, India",Indian Institute of Technology Kharagpur,99054.016,IN,education,53701,911759
+"Accenture Labs, Bangalore, India",,-1,IN,,-1,-1
+"Indian Institute of Technology Kharagpur, India
+Leibniz University of Hannover, Germany",Indian Institute of Technology Kharagpur,99054.016,IN,education,53701,911759
+JLU Giessen,,-1,DE,,-1,-1
+"Department of Computer Science, University of Toronto
+Oxford Internet Institute, University of Oxford",,-1,CA,,-1,-1
+"Department of Computer Science, University of Toronto",,-1,CA,,-1,-1
+"Department of Computer Science, University of Chile
+Millennium Institute for Foundational Research on Data (IMFD), Santiago, Chile",,-1,CL,,-1,-1
+"Department of Computer Science, University of Chile
+Millennium Institute for Foundational Research on Data (IMFD), Santiago, Chile
+National Center for Artificial Intelligence (CENIA), Santiago, Chile",,-1,CL,,-1,-1
+"Data Science Institute, Universidad del Desarrollo",,-1,CL,,-1,-1
+Amazon.com,Amazon (United States),3642.6216,US,company,7352,89657
+The Pennsylvania State University,,-1,US,,-1,-1
+Oracle Labs,,-1,US,,-1,-1
+CISPA Helmholtz Center for Information Security,,-1,DE,,-1,-1
+TU Delft,Delft University of Technology,27748.785,NL,education,125530,3002139
+"Foundation for Research and Technology - Hellas (FORTH)
+Department of Computer Science, University of Crete",,-1,US,,-1,-1
+Foundation for Research and Technology - Hellas (FORTH),,-1,US,,-1,-1
+"School of Electrical and Computer Engineering, Technical University of Crete
+Institute of Computer Science, Foundation for Research and Technology - Hellas",,-1,GR,,-1,-1
+The University of Texas at San Antonio,The University of Texas at San Antonio,98844.99,US,education,32050,737837
+"CyberAgent, Inc.",CyberAgent (Japan),1932.5731,JP,company,225,843
+Tokushima University,Tokushima University,54019.535,JP,education,39511,643682
+"Northwestern University
+University of Washington",,-1,US,,-1,-1
+Carleton University,Carleton University,72132.01,CA,education,52420,1053100
+Macaulay Honors College (Hunter CUNY),,-1,US,,-1,-1
+"Human Language Technology Research Institute
+The University of Texas at Dallas",,-1,US,,-1,-1
+Adobe Research,,-1,US,,-1,-1
+"Aalto University, Espoo, Finland",Aalto University,68384.42,FI,education,43395,864149
+"Aalto University, Espoo, Finland
+University of Helsinki, Helsinki, Finland",Aalto University,68384.42,FI,education,43395,864149
+The Hong Kong University of Science and Technology,,-1,HK,,-1,-1
+"Qatar Computing Research Institute, Hamad bin Khalifa University",,-1,QA,,-1,-1
+"Qatar Computing Research Institute, Hamad bin Khalifa University",,-1,QA,,-1,-1
+Universitat Pompeu Fabra Eurecat,,-1,ES,,-1,-1
+Universitat Pompeu Fabra,Pompeu Fabra University,25408.395,ES,education,34249,919769
+University of Fribourg,University of Fribourg,52324.1,CH,education,25727,635254
+Aristotle University of Thessaloniki,Aristotle University of Thessaloniki,134259.5,GR,education,78696,1503128
+"CEA Tech Occitanie, IRIT, Université de Toulouse, CNRS",,-1,FR,,-1,-1
+"IRIT, Université de Toulouse, CNRS",Toulouse Institute of Computer Science Research,13354.044,FR,facility,8466,98538
+"CEA LIST, Nano-Innov",CEA LIST,24281.943,FR,government,4031,53867
+Queen Mary University,Queen Mary University of London,111713.87,GB,education,91822,2603001
+National University of Defense Technology,National University of Defense Technology,50247.223,CN,education,63834,477347
+Indiana University Network Science Institute,,-1,US,,-1,-1
+Università degli Studi di Milano,University of Milan,35784.81,IT,education,160589,4044840
+Télécom ParisTech University,,-1,FR,,-1,-1
+Robert Gordon University,Robert Gordon University,33616.76,GB,education,7319,134714
+SentiSum,,-1,GB,,-1,-1
+"University of California, Davis","University of California, Berkeley",203838.98,US,education,325100,15870524
+Institute for Molecular Manufacturing,Institute for Molecular Manufacturing,3142.2861,US,nonprofit,50,1388
+University of Southern California Information Sciences Institute,,-1,US,,-1,-1
+University of Duisburg-Essen,University of Duisburg-Essen,119458.99,DE,education,60772,1303835
+Institute of Informatics and Telematics-CNR,,-1,IT,,-1,-1
+Institute of Computational Linguistics-CNR,,-1,IT,,-1,-1
+University of Pisa,University of Pisa,102497.945,IT,education,96945,2171352
+IIT-CNR,Institute of Informatics and Telematics,10044.367,IT,facility,2653,48530
+University of Bologna,University of Bologna,113122.44,IT,education,152580,3436152
+Scuola Normale Superiore di Pisa,Scuola Normale Superiore,15026.623,IT,education,11522,310989
+Università della Svizzera italiana (USI),,-1,CH,,-1,-1
+Universitat Politècnica de València,Universitat Politècnica de València,152366.78,ES,education,55310,1012116
+ISTI-CNR,,-1,IT,,-1,-1
+Università della Svizzera Italiana (USI),,-1,CH,,-1,-1
+The University of Sheffield,,-1,GB,,-1,-1
+Aalto University,Aalto University,68384.42,FI,education,43395,864149
+École polytechnique fédérale de Lausanne (EPFL),,-1,CH,,-1,-1
+Toyohashi University of Technology,Toyohashi University of Technology,35437.707,JP,education,17869,216214
+National Institute of Advanced Industrial Science and Technology (AIST),,-1,JP,,-1,-1
+Bard College,Bard College,14530.307,US,education,2724,42647
+University of Toledo,University of Toledo,50472.43,US,education,32828,620671
+University of Vienna,University of Vienna,101075.914,AT,education,118547,2866176
+University of Melbourne,University of Melbourne,165500.2,AU,education,243471,7164054
+University of Virginia,University of Virginia,115220.39,US,education,150917,4644004
+State University of Southwestern of Bahia,Southwest Bahia State University,1040.3645,BR,education,8458,38253
+Federal University of Bahia,Universidade Federal da Bahia,9016.599,BR,education,38331,367163
+Middlesex University,Middlesex University,33565.57,GB,education,13724,287346
+University Mediterranea of Reggio Calabria,University of Reggio Calabria,3822.3599,IT,education,9089,166409
+Nokia Bell Labs Cambridge,,-1,GB,,-1,-1
+University of Southampton and Max Planck Institute for Demographic Research,,-1,GB,,-1,-1
+University of Washington and Max Planck Institute for Demographic Research,,-1,GB,,-1,-1
+Wittgenstein Centre,,-1,AT,,-1,-1
+Università Bocconi,Bocconi University,3603.7246,IT,education,14689,334883
+Universidade Federal de Minas Gerais,Universidade Federal de Minas Gerais,138700.28,BR,education,98062,1212568
+Ben-Gurion University of the Negev,Ben-Gurion University of the Negev,177557.81,IL,education,75152,1550321
+Miami University,Miami University,42696.734,US,education,29521,564681
+Rochester Institute of Technology,Rochester Institute of Technology,43788.066,US,education,22867,362498
+Mental Health Association of Rochester,,-1,US,,-1,-1
+IIIT Hyderabad,"International Institute of Information Technology, Hyderabad",3067.9534,IN,education,3951,46564
+Microsoft Corp.,,-1,US,,-1,-1
+Microsoft,Microsoft (United States),53351.97,US,company,25892,1086818
+Microsoft Corporation,Microsoft (United States),16596.82,US,company,25892,1086818
+American University of Beirut,American University of Beirut,54800.098,LB,education,20925,445616
+Politecnico di Milano,Politecnico di Milano,150404.9,IT,education,84308,1476700
+"DISI, University of Trento",,-1,CA,,-1,-1
+"Eurecat, Centre Tecnologic de Catalunya",,-1,ES,,-1,-1
+University of North Carolina at Charlotte,University of North Carolina at Charlotte,87359.79,US,education,30820,562874
+University of Piraeus,University of Piraeus,23070.363,GR,education,8828,110008
+Universitat Pompeu Fabra. Barcelona,Pompeu Fabra University,24143.719,ES,education,34249,919769
+"Universitat Pompeu Fabra, Catalunya",Pompeu Fabra University,25408.395,ES,education,34249,919769
+"Eurecat, Centre Tecnològic de Catalunya",,-1,ES,,-1,-1
+University of Milan,University of Milan,146321.56,IT,education,160589,4044840
+"Data Sciences and Analytics Group, Visual Analytics Group",,-1,US,,-1,-1
+"National Security Directorate, Pacific Northwest National Laboratory",,-1,US,,-1,-1
+University of North Carolina-Chapel Hill,University of North Carolina at Chapel Hill,110453.24,US,education,216827,8426871
+Wuhan University,Wuhan University,79365.98,CN,education,145479,2370672
+Indiana University-Indianapolis,Indiana University – Purdue University Indianapolis,47214.105,US,education,101697,3221646
+ Indiana University-Indianapolis,Indiana University – Purdue University Indianapolis,47048.723,US,education,101697,3221646
+University of Regensburg,University of Regensburg,78787.44,DE,education,50267,1428265
+MPI-SWS,Max Planck Institute for Software Systems,10017.581,DE,facility,1807,37945
+University of Texas at Arlington,The University of Texas at Arlington,80565.74,US,education,37129,728209
+Pushshift.io,,-1,US,,-1,-1
+Elon University,Elon University,15328.006,US,education,3659,40385
+University of Amsterdam,University of Amsterdam,145763.73,NL,education,167067,5602789
+Wellesley College,Wellesley College,33117.58,US,education,9167,207196
+Ecole Polytechnique Fédérale de Lausanne,,-1,CH,,-1,-1
+Federal University of Minas Gerais (UFMG),,-1,BR,,-1,-1
+Georgia State University,Georgia State University,71597.26,US,education,49253,1168310
+The University of Edinburgh,,-1,GB,,-1,-1
+University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,393519,US,education,216827,8426871
+MPI for Informatics,,-1,DE,,-1,-1
+Princeton University,Princeton University,166647.38,US,education,152162,7586053
+Saarland Informatics Campus,,-1,DE,,-1,-1
+RMIT University,RMIT University,66349.086,AU,education,48758,957518
+Maxar Technologies,Maxar Technologies (United States),2084.2942,US,company,180,852
+Cosumnes River College,Cosumnes River College,3520.3872,US,education,76,1025
+Santa Clara University,Santa Clara University,41811.4,US,education,12384,226238
+"Cornell Tech
+Cornell University",,-1,US,,-1,-1
+Technion,Technion – Israel Institute of Technology,76941.59,IL,education,92498,2445755
+"QCRI, Doha, Qatar",Quantum Chemistry Research Institute,2912.5132,JP,facility,257,5101
+"Sofia University “St Kliment Ohridski”, Bulgaria",,-1,BG,,-1,-1
+"University of Padova, Italy",,-1,IT,,-1,-1
+Social Media Analysis Toolkit,,-1,,,-1,-1
+University of Kansas,University of Kansas,81294.13,US,education,79320,1998746
+University of Texas at Austin,The University of Texas at Austin,244624.17,US,education,213849,7105332
+"Data Science and Big Data Analytics, Eurecat - Centre Tecnòlogic de Catalunya",,-1,ES,,-1,-1
+"TIS.pt - Consultores em Transportes Inovação e Sistemas, S.A.",,-1,PT,,-1,-1
+"Dept. of International Research Projects - ERAdiate+, University of Žilina",,-1,SK,,-1,-1
+ADAPT Centre,,-1,IE,,-1,-1
+"IMDEA Networks Institute
+King's College London",,-1,ES,,-1,-1
+Observatory on Social Media,,-1,US,,-1,-1
+"Observatory on Social Media
+Politecnico di Milano",,-1,US,,-1,-1
+"School of Social Sciences, University of Manchester, UK
+Corridor Labs, London, UK",Moscow School of Social and Economic Sciences,356.24225,RU,education,108,390
+"IIIT-Delhi, India",,-1,IN,,-1,-1
+Tattle Civic Technologies,,-1,IN,,-1,-1
+"Berkman Klein Center for Internet & Society, Harvard University
+Media Cloud",,-1,US,,-1,-1
+"College of Arts, Media and Design, Northeastern University
+Media Cloud",Colorado State University,3064.0479,US,education,91461,2772695
+Media Cloud,,-1,US,,-1,-1
+"Berkman Klein Center for Internet & Society, Harvard University",,-1,US,,-1,-1
+"School of Information & Library Science, University of North Carolina at Chapel Hill",,-1,US,,-1,-1
+"Shorenstein Center on Media, Politics and Public Policy, Harvard University
+Berkman Klein Center for Internet & Society, Harvard University
+Media Cloud",,-1,US,,-1,-1
+"Civic Studios
+Media Lab, Massachusetts Institute of Technology",,-1,US,,-1,-1
+"Media Lab, Massachusetts Institute of Technology",Health Media Lab,175.14471,US,facility,4,6
+"Department of Urban Studies and Planning, Massachusetts Institute of Technology",,-1,US,,-1,-1
+"Media Cloud
+Berkman Klein Center for Internet & Society, Harvard University",,-1,US,,-1,-1
+"Harvard Law School, Harvard University
+Berkman Klein Center for Internet & Society, Harvard University
+Media Cloud",,-1,US,,-1,-1
+"College of Information & Computer Sciences, University of Massachusetts Amherst
+Berkman Klein Center for Internet & Society, Harvard University
+Media Cloud",,-1,US,,-1,-1
+"Polytechnic of Turin, Italy",Polytechnic University of Turin,25994.666,IT,education,58557,946904
+"Federal University of Espírito Santo, Brazil",Universidade Federal do Espírito Santo,10387.934,BR,education,29051,201345
+"Telefonica Research, Spain",Telefonica Research and Development,12506.301,ES,company,2361,41965
+Myntra Designs Pvt. Ltd.,,-1,IN,,-1,-1
+Microsoft Redmond,,-1,US,,-1,-1
+"Bing Ads, Microsoft",,-1,US,,-1,-1
+"Microsoft Research, India",Microsoft Research (United Kingdom),42965.01,GB,company,12686,750186
+"Department of Computer Science and Information Engineering, National Taiwan University, Taiwan",,-1,TW,,-1,-1
+"Department of Computer Science, National Chengchi University, Taiwan
+MOST Joint Research Center for AI Technology and All Vista Healthcare, Taiwan",,-1,TW,,-1,-1
+"Department of Computer Science and Information Engineering, National Taiwan University, Taiwan
+MOST Joint Research Center for AI Technology and All Vista Healthcare, Taiwan",,-1,TW,,-1,-1
+"University of Tennessee, Knoxville",University of Tennessee at Knoxville,104856.76,US,education,105628,2936049
+Know-Center GmbH,,-1,AT,,-1,-1
+"eMentalist Labs, Austria
+University of Vienna, Austria",,-1,AT,,-1,-1
+"eMentalist Labs, Austria",,-1,AT,,-1,-1
+"Indraprastha Institute of Information and Technology, Delhi, India",,-1,IN,,-1,-1
+"Indian Institute of Information Technology, Dharwad, India",Indian Institute of Information Technology Allahabad,14916.604,IN,education,5222,41552
+"Guru Gobind Singh Indraprastha University, Delhi, India",Guru Gobind Singh Indraprastha University,37483.504,IN,education,6330,55640
+"International Institute of Information and Technology, Hyderabad, India",,-1,IN,,-1,-1
+University of Texas at San Antonio,The University of Texas at San Antonio,87427.52,US,education,32050,737837
+Ashoka University,Ashoka University,5131.052,IN,education,1284,5119
+Microsoft Research Lab,,-1,US,,-1,-1
+"University of Michigan
+Microsoft Research India",,-1,US,,-1,-1
+University of Illinois at Urbana - Champaign,,-1,US,,-1,-1
+"University of Pennsylvania
+National Institute on Drug Abuse",,-1,US,,-1,-1
+National Institute on Drug Abuse,National Institute on Drug Abuse,77245.836,US,facility,9954,503519
+"Politecnico di Milano
+Università di Bologna",,-1,IT,,-1,-1
+"Politecnico di Milano
+Indiana University Bloomington",,-1,IT,,-1,-1
+Arizona State Universtity,,-1,US,,-1,-1
+Loyola University Chicago,Loyola University Chicago,82305.48,US,education,37520,786719
+"University of Oxford
+LMU Munich",,-1,GB,,-1,-1
+University of Luxembourg,University of Luxembourg,34993.734,LU,education,42639,355110
+IRIT,Toulouse Institute of Computer Science Research,13354.044,FR,facility,8466,98538
+"School of Information Sciences, The University of Tennessee Knoxville",Knowledge Systems Institute,164.0221,US,education,131,2256
+"Computer Science, Rensselaer Polytechnic Institute",French Institute for Research in Computer Science and Automation,36801.973,FR,government,48876,1329528
+"Computer Science and Engineering, University at Buffalo","Laboratory of Industrial and Human Automation Control, Mechanical Engineering and Computer Science",3459.7683,FR,facility,6202,45526
+"Network Science Institute, Northeastern University",,-1,US,,-1,-1
+"School of Journalism and Media Innovation, Northeastern University",,-1,US,,-1,-1
+Aalborg University Copenhagen,,-1,DK,,-1,-1
+City University of London,"City, University of London",53511.902,GB,education,28764,543469
+"Institute of Computer Science, University of Tartu, Estonia",Institute of Computer Science,19781.834,PL,facility,6937,85812
+"Department of Computer Science and Information Systems, BITS Pilani - Hyderabad, India",,-1,IN,,-1,-1
+"School of Computer Science and Engineering, Nanyang Technological University, Singapore",,-1,SG,,-1,-1
+"Indraprastha Institute of Information Technology, Delhi, India",Indraprastha Institute of Information Technology Delhi,17145.537,IN,education,4044,37096
+"International Institute of Information Technology, Hyderabad, India","International Institute of Information Technology, Hyderabad",13855.695,IN,education,3951,46564
+UCLA,"University of California, Los Angeles",149514.7,US,education,301706,13181029
+University of California,"University of California, Berkeley",203838.98,US,education,325100,15870524
+"Vermont Complex Systems Center, University of Vermont",,-1,US,,-1,-1
+"College of Information Studies, University of Maryland",,-1,US,,-1,-1
+"Department of Computer Science, University of Illinois at Chicago",,-1,US,,-1,-1
+"College of Information and Computer Sciences, University of Massachusetts Amherst",,-1,US,,-1,-1
+"College of Information Science and Technology, Pennsylvania State University",,-1,US,,-1,-1
+University of Copenhagen,University of Copenhagen,156946.72,DK,education,190585,5921731
+"New Mexico State University
+Syracuse University",,-1,US,,-1,-1
+New Mexico State University,New Mexico State University,67795.18,US,education,29060,687757
+Utah State University,Utah State University,72092.37,US,education,40627,1065259
+University of Calabria,University of Calabria,51110.344,IT,education,29398,572608
+Singapore Management University,Singapore Management University,33745.223,SG,education,12740,225897
+University of Zurich,University of Zurich,138255.23,CH,education,134337,4524287
+University of Lausanne,University of Lausanne,97965.66,CH,education,68671,2228694
+The University of Queensland,,-1,AU,,-1,-1
+Soongsil University,Soongsil University,26191.863,KR,education,10810,134366
+"Knowledge Media Institute, The Open University, UK",,-1,GB,,-1,-1
+"City, University of London",City University of Hong Kong,30729.88,CN,education,82128,2127133

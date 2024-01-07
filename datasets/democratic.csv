@@ -1,0 +1,211 @@
+country_name,total_score,political rights,civil liberties
+Abkhazia*,39 Partly Free,17.0,22
+Afghanistan,8 Not Free,1.0,7
+Albania,67 Partly Free,28.0,39
+Algeria,32 Not Free,10.0,22
+Andorra,93 Free,38.0,55
+Angola,28 Not Free,10.0,18
+Antigua and Barbuda,85 Free,33.0,52
+Argentina,85 Free,35.0,50
+Armenia,54 Partly Free,23.0,31
+Australia,95 Free,38.0,57
+Austria,93 Free,37.0,56
+Azerbaijan,9 Not Free,2.0,7
+Bahrain,12 Not Free,2.0,10
+Bangladesh,40 Partly Free,15.0,25
+Barbados,94 Free,37.0,57
+Belarus,8 Not Free,2.0,6
+Belgium,96 Free,39.0,57
+Belize,87 Free,34.0,53
+Benin,59 Partly Free,17.0,42
+Bhutan,61 Partly Free,29.0,32
+Bolivia (Plurinational State of),66 Partly Free,27.0,39
+Bosnia and Herzegovina,52 Partly Free,18.0,34
+Botswana,72 Free,28.0,44
+Brazil,72 Free,30.0,42
+Brunei,28 Not Free,7.0,21
+Bulgaria,79 Free,33.0,46
+Burkina Faso,30 Not Free,3.0,27
+Burundi,14 Not Free,4.0,10
+Cabo Verde,92 Free,38.0,54
+Cambodia,24 Not Free,5.0,19
+Cameroon,15 Not Free,6.0,9
+Canada,98 Free,40.0,58
+Central African Republic,7 Not Free,3.0,4
+Chad,15 Not Free,1.0,14
+Chile,94 Free,38.0,56
+China,9 Not Free,-2.0,11
+Colombia,70 Free,31.0,39
+Comoros,42 Partly Free,16.0,26
+Costa Rica,91 Free,38.0,53
+Crimea*,4 Not Free,-2.0,6
+Croatia,84 Free,35.0,49
+Cuba,12 Not Free,1.0,11
+Cyprus,92 Free,38.0,54
+Czechia,92 Free,36.0,56
+Côte d'Ivoire,49 Partly Free,19.0,30
+Democratic Republic of the Congo,19 Not Free,4.0,15
+Denmark,97 Free,40.0,57
+Djibouti,24 Not Free,5.0,19
+Dominica,93 Free,37.0,56
+Dominican Republic,68 Partly Free,27.0,41
+Eastern Donbas*,3 Not Free,-1.0,4
+Ecuador,70 Free,30.0,40
+Egypt,18 Not Free,6.0,12
+El Salvador,56 Partly Free,25.0,31
+Equatorial Guinea,5 Not Free,0.0,5
+Eritrea,3 Not Free,1.0,2
+Estonia,94 Free,38.0,56
+Eswatini,17 Not Free,1.0,16
+Ethiopia,21 Not Free,10.0,11
+Fiji,59 Partly Free,24.0,35
+Finland,100 Free,40.0,60
+France,89 Free,38.0,51
+Gabon,20 Not Free,2.0,18
+Gaza Strip*,11 Not Free,3.0,8
+Georgia,58 Partly Free,22.0,36
+Germany,94 Free,39.0,55
+Ghana,80 Free,35.0,45
+Greece,86 Free,35.0,51
+Grenada,89 Free,37.0,52
+Guatemala,49 Partly Free,20.0,29
+Guinea,30 Not Free,7.0,23
+Guinea-Bissau,43 Partly Free,17.0,26
+Guyana,73 Free,30.0,43
+Haiti,31 Not Free,11.0,20
+Honduras,48 Partly Free,22.0,26
+Hong Kong*,42 Partly Free,10.0,32
+Hungary,66 Partly Free,24.0,42
+Iceland,94 Free,37.0,57
+India,66 Partly Free,33.0,33
+Indian Kashmir*,27 Not Free,7.0,20
+Indonesia,58 Partly Free,30.0,28
+Iran (Islamic Republic of),12 Not Free,4.0,8
+Iraq,29 Not Free,16.0,13
+Ireland,97 Free,39.0,58
+Israel,77 Free,34.0,43
+Italy,90 Free,36.0,54
+Jamaica,80 Free,34.0,46
+Japan,96 Free,40.0,56
+Jordan,33 Not Free,11.0,22
+Kazakhstan,23 Not Free,5.0,18
+Kenya,52 Partly Free,22.0,30
+Kiribati,91 Free,37.0,54
+Kosovo,60 Partly Free,28.0,32
+Kuwait,37 Partly Free,14.0,23
+Kyrgyzstan,27 Not Free,4.0,23
+Laos,13 Not Free,2.0,11
+Latvia,88 Free,37.0,51
+Lebanon,43 Partly Free,14.0,29
+Lesotho,66 Free,30.0,36
+Liberia,60 Partly Free,27.0,33
+Libya,10 Not Free,1.0,9
+Liechtenstein,90 Free,33.0,57
+Lithuania,89 Free,38.0,51
+Luxembourg,97 Free,38.0,59
+Madagascar,61 Partly Free,27.0,34
+Malawi,66 Partly Free,29.0,37
+Malaysia,53 Partly Free,22.0,31
+Maldives,41 Partly Free,19.0,22
+Mali,29 Not Free,8.0,21
+Malta,89 Free,35.0,54
+Marshall Islands,93 Free,38.0,55
+Mauritania,36 Partly Free,14.0,22
+Mauritius,85 Free,35.0,50
+Mexico,60 Partly Free,27.0,33
+Micronesia,92 Free,37.0,55
+Republic of Moldova,62 Partly Free,27.0,35
+Monaco,84 Free,27.0,57
+Mongolia,84 Free,36.0,48
+Montenegro,67 Partly Free,26.0,41
+Morocco,37 Partly Free,13.0,24
+Mozambique,45 Partly Free,14.0,31
+Myanmar,9 Not Free,0.0,9
+Nagorno-Karabakh*,37 Partly Free,17.0,20
+Namibia,77 Free,31.0,46
+Nauru,77 Free,34.0,43
+Nepal,58 Partly Free,26.0,32
+Netherlands,97 Free,39.0,58
+New Zealand,99 Free,40.0,59
+Nicaragua,19 Not Free,5.0,14
+Niger,51 Partly Free,23.0,28
+Nigeria,43 Partly Free,20.0,23
+North Korea,3 Not Free,0.0,3
+North Macedonia,68 Partly Free,29.0,39
+Northern Cyprus*,76 Free,27.0,49
+Norway,100 Free,40.0,60
+Oman,24 Not Free,6.0,18
+Pakistan,37 Partly Free,15.0,22
+Pakistani Kashmir*,29 Not Free,9.0,20
+Palau,92 Free,37.0,55
+Panama,83 Free,35.0,48
+Papua New Guinea,61 Partly Free,22.0,39
+Paraguay,65 Partly Free,28.0,37
+Peru,70 Partly Free,29.0,41
+Philippines,58 Partly Free,25.0,33
+Poland,81 Free,34.0,47
+Portugal,96 Free,39.0,57
+Qatar,25 Not Free,7.0,18
+Republic of the Congo,17 Not Free,2.0,15
+Romania,83 Free,35.0,48
+Russian Federation,16 Not Free,5.0,11
+Rwanda,23 Not Free,8.0,15
+Samoa,83 Free,31.0,52
+San Marino,97 Free,39.0,58
+Saudi Arabia,8 Not Free,1.0,7
+Senegal,68 Partly Free,29.0,39
+Serbia,60 Partly Free,20.0,40
+Seychelles,79 Free,34.0,45
+Sierra Leone,63 Partly Free,27.0,36
+Singapore,47 Partly Free,19.0,28
+Slovakia,90 Free,37.0,53
+Slovenia,95 Free,39.0,56
+Solomon Islands,76 Free,29.0,47
+Somalia,8 Not Free,2.0,6
+Somaliland*,44 Partly Free,18.0,26
+South Africa,79 Free,33.0,46
+Republic of Korea,83 Free,33.0,50
+South Ossetia*,12 Not Free,3.0,9
+South Sudan,1 Not Free,-3.0,4
+Spain,90 Free,37.0,53
+Sri Lanka,54 Partly Free,23.0,31
+St. Kitts and Nevis,89 Free,35.0,54
+Saint Lucia,92 Free,38.0,54
+St. Vincent and the Grenadines,91 Free,36.0,55
+Sudan,10 Not Free,0.0,10
+Suriname,79 Free,34.0,45
+Sweden,100 Free,40.0,60
+Switzerland,96 Free,39.0,57
+Syrian Arab Republic,1 Not Free,-3.0,4
+São Tomé and Príncipe ,84 Free,35.0,49
+"China, Taiwan Province of China",94 Free,38.0,56
+Tajikistan,7 Not Free,0.0,7
+Tanzania,36 Partly Free,12.0,24
+Thailand,30 Not Free,6.0,24
+The Bahamas,91 Free,38.0,53
+The Gambia,48 Partly Free,21.0,27
+Tibet*,1 Not Free,-2.0,3
+Timor-Leste,72 Free,33.0,39
+Togo,42 Partly Free,15.0,27
+Tonga,81 Free,31.0,50
+Transnistria*,18 Not Free,6.0,12
+Trinidad and Tobago,82 Free,33.0,49
+Tunisia,56 Partly Free,20.0,36
+Türkiye,32 Not Free,16.0,16
+Turkmenistan,2 Not Free,0.0,2
+Tuvalu,93 Free,37.0,56
+Uganda,35 Not Free,11.0,24
+Ukraine,50 Partly Free,22.0,28
+United Arab Emirates,18 Not Free,5.0,13
+United Kingdom,93 Free,39.0,54
+United States of America,83 Free,33.0,50
+Uruguay,96 Free,40.0,56
+Uzbekistan,12 Not Free,2.0,10
+Vanuatu,82 Free,33.0,49
+Venezuela (Bolivarian Republic of),15 Not Free,1.0,14
+Viet Nam,19 Not Free,4.0,15
+West Bank*,22 Not Free,4.0,18
+Western Sahara*,4 Not Free,-3.0,7
+Yemen,9 Not Free,1.0,8
+Zambia,54 Partly Free,23.0,31
+Zimbabwe,28 Not Free,11.0,17
